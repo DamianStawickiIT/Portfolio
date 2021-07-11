@@ -6,8 +6,7 @@
 # Certificates
 # Test cases
 # Bug reports
-# State transition testing and decision tables
+# Black-box test design technique
 -  [Decision tables](https://drive.google.com/file/d/1lNJbw4WJKn2yt-6gCzaSnbHYqa-nABR2/view?usp=sharing)
-# Boundary value analysis and equivalence partitioning
 # My projects
 # Webinars
