@@ -2,6 +2,9 @@
 # About Me
 # Tools
 # Tech skills
+* SQL
+* REST Api
+* Software Testing
 # Courses
 # Certificates
 # Test cases
