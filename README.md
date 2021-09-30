@@ -25,4 +25,5 @@
 # Black-box test design technique
 -  [Decision tables](https://drive.google.com/file/d/1lNJbw4WJKn2yt-6gCzaSnbHYqa-nABR2/view?usp=sharing)
 # My projects
+* Test plan - Allegro https://docs.google.com/spreadsheets/d/1xT832AyP91jtSRL39wt8oeLFH3lXmz-kWl7A90kKIyU/edit?usp=sharing
 # Webinars
