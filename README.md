@@ -2,6 +2,13 @@
 # About Me
 # Tools
 * TestRail - https://drive.google.com/file/d/1phJW-UknfM3Fh-3DuYlWq3BATJaFNZw0/view?usp=sharing
+* Jira
+* MySQL
+* Microsoft SQL Server Management Studio
+* Postman
+* Intellij IDEA
+* Git
+* MS Office
 # Tech skills
 * SQL
 * REST Api
