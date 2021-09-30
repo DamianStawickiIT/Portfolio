@@ -7,6 +7,7 @@
 * REST Api
 * Software Testing
 * Example Test Case - https://drive.google.com/file/d/1JofKl2nQ3eNMtqlKlkJiBwLjCV1__ROc/view?usp=sharing
+* Java
 # Courses 
 # Certificates
 * SDA Software Academy - Tester Oprogramowania - https://drive.google.com/file/d/1yS1jY-ucolcL_O-BfsXV5gmaEDouzbXU/view?usp=sharing
