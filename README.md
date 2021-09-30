@@ -11,6 +11,7 @@
 # Certificates
 * SDA Software Academy - Tester Oprogramowania - https://drive.google.com/file/d/1yS1jY-ucolcL_O-BfsXV5gmaEDouzbXU/view?usp=sharing
 * Podstawy manualnego testowania oprogramowania - https://drive.google.com/file/d/1rqsDFHcsdNKmXvS6UgeowcnTdqJ-Lykc/view?usp=sharing
+* Scrum - https://drive.google.com/file/d/1t4pN2ZzEOGjd7Jw5XaWMeuM63MmlKcG8/view?usp=sharing
 # Test cases
 # Bug reports
 # Black-box test design technique
