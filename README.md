@@ -27,3 +27,8 @@
 # My projects
 * Test plan - Allegro https://docs.google.com/spreadsheets/d/1xT832AyP91jtSRL39wt8oeLFH3lXmz-kWl7A90kKIyU/edit?usp=sharing
 # Webinars
+* Bazy danych Kurs "Od laika do Automatyka" Webinarium Bazy danych w pracy testera oprogramowania
+* Pierwsza Aplikacja Java – Od czego zacząć programowanie w Javie?
+* Testowanie REST API
+* Jak połączyć automatyczne testy interfejsu z bazą danych?
+* Fabryka Testów - Układanie procesu testowego w zespole
