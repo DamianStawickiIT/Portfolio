@@ -5,7 +5,7 @@
 * SQL
 * REST Api
 * Software Testing
-* Example Test Case - (https://drive.google.com/file/d/1phJW-UknfM3Fh-3DuYlWq3BATJaFNZw0/view?usp=sharing)
+* Example Test Case - https://drive.google.com/file/d/1phJW-UknfM3Fh-3DuYlWq3BATJaFNZw0/view?usp=sharing
 # Courses
 # Certificates
 # Test cases
