@@ -13,7 +13,8 @@
 * SQL
 * REST Api
 * Software Testing
-* Creating Test Cases
+* Creating Test Plans, Test Scenarios and Test Cases
+* Creating Bug Reports
 * Java
 # Courses and Certificates
 * SDA Software Academy - Tester Oprogramowania - https://drive.google.com/file/d/1yS1jY-ucolcL_O-BfsXV5gmaEDouzbXU/view?usp=sharing
