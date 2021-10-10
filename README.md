@@ -26,6 +26,7 @@
 # Bug reports
 # My projects
 * Test plan - Allegro https://docs.google.com/spreadsheets/d/1xT832AyP91jtSRL39wt8oeLFH3lXmz-kWl7A90kKIyU/edit?usp=sharing
+* Test Cases - https://drive.google.com/file/d/1YeGI4yCi09lHYx9o5nEB9LzJyhJmtKsI/view?usp=sharing
 # Webinars
 * Bazy danych Kurs "Od laika do Automatyka" Webinarium Bazy danych w pracy testera oprogramowania
 * Pierwsza Aplikacja Java – Od czego zacząć programowanie w Javie?
