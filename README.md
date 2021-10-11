@@ -11,6 +11,7 @@
 * MS Office
 # Tech skills
 * SQL
+* *
 * REST Api
 * Software Testing
 * Creating Test Plans, Test Scenarios and Test Cases
