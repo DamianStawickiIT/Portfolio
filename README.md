@@ -8,6 +8,7 @@
 * Microsoft SQL Server Management Studio
 * Postman
 * Intellij IDEA
+* Jenkins
 * Git
 * MS Office
 * Browser Stack
