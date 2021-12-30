@@ -37,3 +37,4 @@
 * Testowanie REST API
 * Jak połączyć automatyczne testy interfejsu z bazą danych?
 * Fabryka Testów - Układanie procesu testowego w zespole
+* SzkoleniaQA - Podstawy konsoli developerskiej
