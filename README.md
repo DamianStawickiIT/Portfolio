@@ -11,6 +11,7 @@
 * Visual Studio Code
 * Jenkins
 * Git
+* GitHub/BitBucket
 * MS Office
 * Browser Stack
 # Umiejętności
