@@ -17,9 +17,10 @@
 # Umiejętności
 * SQL
 * REST Api
-* Software Testing
+* Testowanie oprogramowania (techniki testowe, rodzaje testów)
 * Tworzenie test planów, scenariuszy i przypadków testowych
 * Tworzenie raportów bugów
+* Scrum
 * Java Scirpt
 # Certyfikaty i kursy
 * SDA Software Academy - Tester Oprogramowania - https://drive.google.com/file/d/1yS1jY-ucolcL_O-BfsXV5gmaEDouzbXU/view?usp=sharing
