@@ -14,6 +14,7 @@
 * GitHub/BitBucket
 * MS Office
 * PicPick
+* ShareX
 # Skills
 * SQL
 * REST Api
