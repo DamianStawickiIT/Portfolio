@@ -20,6 +20,7 @@
 * Testowanie oprogramowania (techniki testowe, rodzaje testów)
 * Tworzenie test planów, scenariuszy i przypadków testowych
 * Tworzenie raportów bugów
+* DevTools
 * Scrum
 * Java Scirpt
 # Certyfikaty i kursy
