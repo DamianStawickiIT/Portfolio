@@ -13,7 +13,7 @@
 * Git
 * GitHub/BitBucket
 * MS Office
-* Browser Stack
+* PicPick
 # Umiejętności
 * SQL
 * REST Api
