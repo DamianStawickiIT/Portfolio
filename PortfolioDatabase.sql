@@ -95,6 +95,9 @@ SELECT Club, Nationality, COUNT(*)
 FROM balonDorResults
 GROUP BY Club, Nationality
 
+SELECT AVG(Votes)
+FROM balonDorResults
+
 
 
 
