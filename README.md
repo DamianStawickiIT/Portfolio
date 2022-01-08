@@ -18,7 +18,7 @@
 * SQL
 * REST Api
 * Software Testing
-* TWorzenie test planów, scenariuszy i przypadków testowych
+* Tworzenie test planów, scenariuszy i przypadków testowych
 * Tworzenie raportów bugów
 * Java Scirpt
 # Certyfikaty i kursy
