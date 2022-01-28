@@ -3,7 +3,7 @@
 Jestem absolwentem kursu "Tester oprogramowania", który pozwolił mi nabyć niezbędną wiedzę z zakresu testowania. Dzięki wypracowanej, bardzo dobrej organizacji pracy wiem, że nie będę miał trudności z dokumentowaniem i raportowaniem wyników testów. Skrupulatność i dokładność pozwoli mi z powodzeniem wyszukiwać i zgłaszać błędy. Po ukończeniu kursy poszerzam wiedzę za pomocą platformy uTest, Udemy oraz webinarów.
 # Tools
 * Test Link
-* TestRail - https://drive.google.com/file/d/1phJW-UknfM3Fh-3DuYlWq3BATJaFNZw0/view?usp=sharing
+* [TestRail](https://drive.google.com/file/d/1phJW-UknfM3Fh-3DuYlWq3BATJaFNZw0/view?usp=sharing)
 * Jira
 * MySQL
 * Microsoft SQL Server Management Studio
