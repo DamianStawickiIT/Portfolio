@@ -1,7 +1,7 @@
 # Portfolio
 # About Me
 Jestem absolwentem kursu "Tester oprogramowania", który pozwolił mi nabyć niezbędną wiedzę z zakresu testowania. Dzięki wypracowanej, bardzo dobrej organizacji pracy wiem, że nie będę miał trudności z dokumentowaniem i raportowaniem wyników testów. Skrupulatność i dokładność pozwoli mi z powodzeniem wyszukiwać i zgłaszać błędy. Po ukończeniu kursy poszerzam wiedzę za pomocą platformy uTest, Udemy oraz webinarów.
-# Tools
+# Narzędzia
 * Test Link
 * [TestRail](https://drive.google.com/file/d/1phJW-UknfM3Fh-3DuYlWq3BATJaFNZw0/view?usp=sharing)
 * Jira
@@ -16,7 +16,7 @@ Jestem absolwentem kursu "Tester oprogramowania", który pozwolił mi nabyć nie
 * MS Office
 * PicPick
 * ShareX
-# Skills
+# Umiejętności
 * SQL
 * REST Api
 * Software Testing
@@ -25,10 +25,11 @@ Jestem absolwentem kursu "Tester oprogramowania", który pozwolił mi nabyć nie
 * DevTools
 * Scrum
 * Java Scirpt
-# Certificates and Courses
+# Kursy i certyfikaty
 * [SDA Software Academy - Tester Oprogramowania](https://drive.google.com/file/d/1yS1jY-ucolcL_O-BfsXV5gmaEDouzbXU/view?usp=sharing)
 * [Podstawy manualnego testowania oprogramowania](https://drive.google.com/file/d/1rqsDFHcsdNKmXvS6UgeowcnTdqJ-Lykc/view?usp=sharing)
 * [Scrum](https://drive.google.com/file/d/1t4pN2ZzEOGjd7Jw5XaWMeuM63MmlKcG8/view?usp=sharing)
+* [Praktyczny test testowania manualnego](https://drive.google.com/file/d/1U20EpiOPk3ZdSNKmWCu8b2XSTcBQDyf4/view?usp=sharing)
 # Example Test Cases
 * [Przykładowy Test Case](https://drive.google.com/file/d/1JofKl2nQ3eNMtqlKlkJiBwLjCV1__ROc/view?usp=sharing)
 * [Przykładowy Test Case](https://drive.google.com/file/d/1QJfWdnXa8XO9_Q_xiKx0q-e0IMGmPUT7/view?usp=sharing)
