@@ -30,9 +30,9 @@ Jestem absolwentem kursu "Tester oprogramowania", który pozwolił mi nabyć nie
 * [Podstawy manualnego testowania oprogramowania](https://drive.google.com/file/d/1rqsDFHcsdNKmXvS6UgeowcnTdqJ-Lykc/view?usp=sharing)
 * [Scrum](https://drive.google.com/file/d/1t4pN2ZzEOGjd7Jw5XaWMeuM63MmlKcG8/view?usp=sharing)
 * [Praktyczny test testowania manualnego](https://drive.google.com/file/d/1U20EpiOPk3ZdSNKmWCu8b2XSTcBQDyf4/view?usp=sharing)
-# Example Test Cases
-* [Przykładowy Test Case](https://drive.google.com/file/d/1JofKl2nQ3eNMtqlKlkJiBwLjCV1__ROc/view?usp=sharing)
-* [Przykładowy Test Case](https://drive.google.com/file/d/1QJfWdnXa8XO9_Q_xiKx0q-e0IMGmPUT7/view?usp=sharing)
+# Przypadki testowe
+* [Przykładowy przypadek testowy](https://drive.google.com/file/d/1JofKl2nQ3eNMtqlKlkJiBwLjCV1__ROc/view?usp=sharing)
+* [Przykładowy przypadek testowy](https://drive.google.com/file/d/1QJfWdnXa8XO9_Q_xiKx0q-e0IMGmPUT7/view?usp=sharing)
 # Przykłady - reportowanie bugów
 # Moje projekty
 * [SQL](https://github.com/DamianStawickiIT/Portfolio/blob/main/PortfolioDatabase.sql)
