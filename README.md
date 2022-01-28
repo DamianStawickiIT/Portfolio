@@ -1,5 +1,5 @@
 # Portfolio
-# About Me
+# O mnie
 Jestem absolwentem kursu "Tester oprogramowania", który pozwolił mi nabyć niezbędną wiedzę z zakresu testowania. Dzięki wypracowanej, bardzo dobrej organizacji pracy wiem, że nie będę miał trudności z dokumentowaniem i raportowaniem wyników testów. Skrupulatność i dokładność pozwoli mi z powodzeniem wyszukiwać i zgłaszać błędy. Po ukończeniu kursy poszerzam wiedzę za pomocą platformy uTest, Udemy oraz webinarów.
 # Narzędzia
 * Test Link
