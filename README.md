@@ -46,3 +46,7 @@ Jestem absolwentem kursu "Tester oprogramowania", który pozwolił mi nabyć nie
 * Jak połączyć automatyczne testy interfejsu z bazą danych?
 * Fabryka Testów - Układanie procesu testowego w zespole
 * SzkoleniaQA - Podstawy konsoli developerskiej
+# Grupy
+* Testowanie oprogramowania
+* Tester oprogramowania - jak nim zostać
+* Tester oprogramowania - wsparcie na starcie
