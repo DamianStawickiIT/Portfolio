@@ -3,7 +3,7 @@
 Jestem absolwentem kursu "Tester oprogramowania", który pozwolił mi nabyć niezbędną wiedzę z zakresu testowania. Dzięki wypracowanej, bardzo dobrej organizacji pracy wiem, że nie będę miał trudności z dokumentowaniem i raportowaniem wyników testów. Skrupulatność i dokładność pozwoli mi z powodzeniem wyszukiwać i zgłaszać błędy. Po ukończeniu kursy poszerzam wiedzę za pomocą platformy uTest, Udemy oraz webinarów.
 # Narzędzia
 * Test Link
-* [TestRail](https://drive.google.com/file/d/1phJW-UknfM3Fh-3DuYlWq3BATJaFNZw0/view?usp=sharing)
+* TestRail
 * Jira
 * MySQL
 * Microsoft SQL Server Management Studio
@@ -38,6 +38,7 @@ Jestem absolwentem kursu "Tester oprogramowania", który pozwolił mi nabyć nie
 * [SQL](https://github.com/DamianStawickiIT/Portfolio/blob/main/PortfolioDatabase.sql)
 * [Test plan](https://docs.google.com/spreadsheets/d/1xT832AyP91jtSRL39wt8oeLFH3lXmz-kWl7A90kKIyU/edit?usp=sharing)
 * [Test Cases](https://drive.google.com/file/d/1YeGI4yCi09lHYx9o5nEB9LzJyhJmtKsI/view?usp=sharing)
+* [Test Case - Google](https://drive.google.com/file/d/1phJW-UknfM3Fh-3DuYlWq3BATJaFNZw0/view?usp=sharing)
 # Webinars
 * Bazy danych Kurs "Od laika do Automatyka" Webinarium Bazy danych w pracy testera oprogramowania
 * Pierwsza Aplikacja Java – Od czego zacząć programowanie w Javie?
