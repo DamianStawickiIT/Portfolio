@@ -26,9 +26,9 @@ Jestem absolwentem kursu "Tester oprogramowania", który pozwolił mi nabyć nie
 * Scrum
 * Java Scirpt
 # Certificates and Courses
-* SDA Software Academy - Tester Oprogramowania - https://drive.google.com/file/d/1yS1jY-ucolcL_O-BfsXV5gmaEDouzbXU/view?usp=sharing
-* Podstawy manualnego testowania oprogramowania - https://drive.google.com/file/d/1rqsDFHcsdNKmXvS6UgeowcnTdqJ-Lykc/view?usp=sharing
-* Scrum - https://drive.google.com/file/d/1t4pN2ZzEOGjd7Jw5XaWMeuM63MmlKcG8/view?usp=sharing
+* [SDA Software Academy - Tester Oprogramowania](https://drive.google.com/file/d/1yS1jY-ucolcL_O-BfsXV5gmaEDouzbXU/view?usp=sharing)
+* [Podstawy manualnego testowania oprogramowania](https://drive.google.com/file/d/1rqsDFHcsdNKmXvS6UgeowcnTdqJ-Lykc/view?usp=sharing)
+* [Scrum](https://drive.google.com/file/d/1t4pN2ZzEOGjd7Jw5XaWMeuM63MmlKcG8/view?usp=sharing)
 # Example Test Cases
 * https://drive.google.com/file/d/1JofKl2nQ3eNMtqlKlkJiBwLjCV1__ROc/view?usp=sharing
 * https://drive.google.com/file/d/1QJfWdnXa8XO9_Q_xiKx0q-e0IMGmPUT7/view?usp=sharing
