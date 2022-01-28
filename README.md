@@ -19,12 +19,12 @@ Jestem absolwentem kursu "Tester oprogramowania", który pozwolił mi nabyć nie
 # Umiejętności
 * SQL
 * REST Api
-* Software Testing
-* Creating Test Plans, Test Scenarios and Test Cases 
-* Creatin Bug reports
-* DevTools
+* Testowanie oprogramowania
+* TWorzenie test planów, test scenariuszy i przypadków testowych
+* Tworzenie zgłoszeń błędów
+* Narzędzia developerskie
 * Scrum
-* Java Scirpt
+* Java Script
 # Kursy i certyfikaty
 * [SDA Software Academy - Tester Oprogramowania](https://drive.google.com/file/d/1yS1jY-ucolcL_O-BfsXV5gmaEDouzbXU/view?usp=sharing)
 * [Podstawy manualnego testowania oprogramowania](https://drive.google.com/file/d/1rqsDFHcsdNKmXvS6UgeowcnTdqJ-Lykc/view?usp=sharing)
