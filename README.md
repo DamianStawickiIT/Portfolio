@@ -10,7 +10,6 @@ Jestem absolwentem kursu "Tester oprogramowania", który pozwolił mi nabyć nie
 * Postman
 * Intellij IDEA
 * Visual Studio Code
-* Jenkins
 * Git
 * GitHub/BitBucket
 * MS Office
