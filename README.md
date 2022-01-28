@@ -36,7 +36,7 @@ Jestem absolwentem kursu "Tester oprogramowania", który pozwolił mi nabyć nie
 # Bugs reported
 # My projects
 * [SQL](https://github.com/DamianStawickiIT/Portfolio/blob/main/PortfolioDatabase.sql)
-* [Test plan](https://docs.google.com/spreadsheets/d/1xT832AyP91jtSRL39wt8oeLFH3lXmz-kWl7A90kKIyU/edit?usp=sharing)
+* [Test plan - Allegro](https://docs.google.com/spreadsheets/d/1xT832AyP91jtSRL39wt8oeLFH3lXmz-kWl7A90kKIyU/edit?usp=sharing)
 * [Test Cases](https://drive.google.com/file/d/1YeGI4yCi09lHYx9o5nEB9LzJyhJmtKsI/view?usp=sharing)
 * [Test Case - Google](https://drive.google.com/file/d/1phJW-UknfM3Fh-3DuYlWq3BATJaFNZw0/view?usp=sharing)
 # Webinars
