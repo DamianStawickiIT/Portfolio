@@ -20,7 +20,7 @@ Jestem absolwentem kursu "Tester oprogramowania", który pozwolił mi nabyć nie
 * SQL
 * REST Api
 * Testowanie oprogramowania
-* TWorzenie test planów, test scenariuszy i przypadków testowych
+* Tworzenie test planów, test scenariuszy i przypadków testowych
 * Tworzenie zgłoszeń błędów
 * Narzędzia developerskie
 * Scrum
