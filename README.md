@@ -32,7 +32,8 @@ Jestem absolwentem kursu "Tester oprogramowania", który pozwolił mi nabyć nie
 # Przypadki testowe
 * [Przykładowy przypadek testowy](https://drive.google.com/file/d/1JofKl2nQ3eNMtqlKlkJiBwLjCV1__ROc/view?usp=sharing)
 * [Przykładowy przypadek testowy](https://drive.google.com/file/d/1QJfWdnXa8XO9_Q_xiKx0q-e0IMGmPUT7/view?usp=sharing)
-# Przykłady - reportowanie bugów
+# Przykłady - raportowanie błędów
+* [Przykładowy raport błędu](https://drive.google.com/file/d/1P8-7NaMYPfE18CJo-bsniAy54OuO3cFw/view?usp=sharing)
 # Moje projekty
 * [SQL](https://github.com/DamianStawickiIT/Portfolio/blob/main/PortfolioDatabase.sql)
 * [Test plan - Allegro](https://docs.google.com/spreadsheets/d/1xT832AyP91jtSRL39wt8oeLFH3lXmz-kWl7A90kKIyU/edit?usp=sharing)
