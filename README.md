@@ -30,7 +30,7 @@ Jestem absolwentem kursu "Tester oprogramowania", który pozwolił mi nabyć nie
 * [Scrum](https://drive.google.com/file/d/1t4pN2ZzEOGjd7Jw5XaWMeuM63MmlKcG8/view?usp=sharing)
 * [Praktyczny test testowania manualnego](https://drive.google.com/file/d/1U20EpiOPk3ZdSNKmWCu8b2XSTcBQDyf4/view?usp=sharing)
 # Przypadki testowe
-* [Przykładowy przypadek testowy](https://drive.google.com/file/d/1JofKl2nQ3eNMtqlKlkJiBwLjCV1__ROc/view?usp=sharing)
+* [Reddit - Formularz rejestracji](https://drive.google.com/file/d/1pfKTZ6ZnGucCLLLy6_aZQIkWGXfu-CC4/view?usp=sharing)
 * [Przykładowy przypadek testowy](https://drive.google.com/file/d/1QJfWdnXa8XO9_Q_xiKx0q-e0IMGmPUT7/view?usp=sharing)
 # Przykłady - raportowanie błędów
 * [Przykładowy raport błędu](https://drive.google.com/file/d/1P8-7NaMYPfE18CJo-bsniAy54OuO3cFw/view?usp=sharing)
